@@ -30,9 +30,9 @@ _  /_/ // /_/ /_  /   / /_ _  / / //_____/_ |/ |/ / _  /   / /_
 For this project to be effective, you will need the following items for the Raspberry Pi to be used as a networking device. 
 
 1. A Raspberry Pi 4
-```markdown
+
 ![Image](https://github.com/Brilliance0nly/DarthWrt/blob/main/pi4.png)
-```
+
 2. DarthWrt File
 
 ```markdown
@@ -41,21 +41,20 @@ git clone https://github.com/Brilliance0nly/DarthWrt.git
 
 
 3. Belena Etcher for flashing 
-```markdown
+
 ![Image](https://github.com/Brilliance0nly/DarthWrt/blob/main/etcher.png)
-```
+
 4. An SD card large enought to install the system on 
-```markdown
+
 ![Image](https://github.com/Brilliance0nly/DarthWrt/blob/main/SDcard.png)
-```
+
 5. A USB for expandiing storage and downloading packages 
-```markdown
+
 ![Image](https://github.com/Brilliance0nly/DarthWrt/blob/main/usb.png)
-```
+
 6. An ethernet extender or portable switch
-```markdown
+
 ![Image](https://github.com/Brilliance0nly/DarthWrt/blob/main/usb.png)
-```
 
 
 
