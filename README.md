@@ -3,14 +3,38 @@
 One of the best ways to set up a home lab or to learn networking is by configuring everything yourself. A good friend of mine once opened my mind to the possibility of success through exceeding normal expectations. He did this by starting at the hardest level of something and then working his way down. Not everything will work out better this way, but when it comes to tackling big projects his philosophy fits. Networking is a tough skill to master. It can be a wonderful job or your worst nightmare. I started with a traditional router like most of you, but  I started using open-sourced tools that helped me cover the knowledge gap. This file is a specially configured version of OpenWrt, built for a Raspberry Pi 4 motherboard. It ships with Luci and all the necessary components to get started. Just follow the instructions and you'll be on your way. 
 
 
+___  __ \_____ _________  /___  /_       __ |     / /________  /_
+__  / / /  __ `/_  ___/  __/_  __ \________ | /| / /__  ___/  __/
+_  /_/ // /_/ /_  /   / /_ _  / / //_____/_ |/ |/ / _  /   / /_  
+/_____/ \__,_/ /_/    \__/ /_/ /_/       ____/|__/  /_/    \__/  
+      
+ |_  |    / /___\ \    |  _|
+   | |_  / /|   |\ \  _| |  
+   |  _|< < | | | > >|_  |  
+  _| |   \ \|___|/ /   | |_ 
+ |___|    \_\   /_/    |___|
+      
+        NO ONE IS SAFE  
+-----------------------------------------------------
+          %D %V, %C       
+----------------------------------------------------- 
+      
+        
+
 ### What you need
 
 For this project to be effective, you will need the following items for the Raspberry Pi to be used as a networking device. 
 
 1. A Raspberry Pi 4
-2. An SD card large to install the system on 
-3. A USB for expandiing storage and downling packages to the device 
-4. An ethernet Extesion cord or portable witch
+2. DarthWrt File
+3. Belena Etcher for flashing 
+4. An SD card large enought to install the system on 
+5. A USB for expandiing storage and downloading packages 
+6. An ethernet extender or portable switch
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
