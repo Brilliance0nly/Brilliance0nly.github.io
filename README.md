@@ -50,7 +50,7 @@ git clone https://github.com/Brilliance0nly/DarthWrt.git
 
 5. A USB for expandiing storage and downloading packages 
 
-![Image](https://github.com/Brilliance0nly/DarthWrt/blob/main/usb.png)
+![Image](https://unsplash.com/photos/9Eid2zc_Veo)
 
 6. An ethernet extender or portable switch
 
