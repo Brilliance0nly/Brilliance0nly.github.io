@@ -43,15 +43,10 @@ git clone https://github.com/Brilliance0nly/DarthWrt.git
 ![Image](https://github.com/Brilliance0nly/DarthWrt/blob/main/etcher.png)
 
 4. An SD card to install the system
+
 5. A USB for expandiing storage and downloading packages 
 
-
-```markdown
-![Image](https://imgur.com/a/FM4zfJy)
-```
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/FM4zfJy" data-context="false" ><a href="//imgur.com/a/FM4zfJy"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-7. An ethernet extender or portable switch
+6. An ethernet extender or portable switch
 
 
 
