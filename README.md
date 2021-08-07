@@ -44,7 +44,10 @@ git clone https://github.com/Brilliance0nly/DarthWrt.git
 
 4. An SD card to install the system
 5. A USB for expandiing storage and downloading packages 
-6. An ethernet extender or portable switch
+
+![Image](https://imgur.com/a/FM4zfJy)
+
+7. An ethernet extender or portable switch
 
 
 
