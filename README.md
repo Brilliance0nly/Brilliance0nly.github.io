@@ -66,13 +66,9 @@ opkg upgrade
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and 
+[Link](url) and
 
-
-
-```markdown
 ![Image](https://github.com/Brilliance0nly/DarthWrt/blob/main/ethernet.png)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
