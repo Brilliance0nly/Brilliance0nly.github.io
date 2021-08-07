@@ -68,3 +68,5 @@ opkg upgrade
 - Find your IP address and type it into browser
 - By default there is no password so you can just login , but the first administrator task is to set a root password
 - Configure your settings
+
+You can run it in a Virtual MAchine as well
