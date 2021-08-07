@@ -44,7 +44,7 @@ git clone https://github.com/Brilliance0nly/DarthWrt.git
 
 ![Image](https://github.com/Brilliance0nly/DarthWrt/blob/main/etcher.png)
 
-4. An SD card large enought to install the system on 
+4. An SD card to install the system
 
 ![Image](https://github.com/Brilliance0nly/DarthWrt/blob/main/SDcard.png)
 
