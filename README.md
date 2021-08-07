@@ -54,7 +54,7 @@ git clone https://github.com/Brilliance0nly/DarthWrt.git
 
 6. An ethernet extender or portable switch
 
-![Image](https://github.com/Brilliance0nly/DarthWrt/blob/main/usb.png)
+![Image](https://github.com/Brilliance0nly/DarthWrt/blob/main/ethernet.png)
 
 
 
