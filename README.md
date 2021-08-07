@@ -31,6 +31,7 @@ For this project to be effective, you will need the following items for the Rasp
 
 1. A Raspberry Pi 4
 
+![Image](https://github.com/Brilliance0nly/DarthWrt/blob/main/pi4.png)
 
 2. DarthWrt File
 
