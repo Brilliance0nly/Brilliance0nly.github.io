@@ -38,23 +38,14 @@ For this project to be effective, you will need the following items for the Rasp
 ```markdown
 git clone https://github.com/Brilliance0nly/DarthWrt.git
 ```
-
-
 3. Belena Etcher for flashing 
 
 ![Image](https://github.com/Brilliance0nly/DarthWrt/blob/main/etcher.png)
 
 4. An SD card to install the system
-
-![Image](https://github.com/Brilliance0nly/DarthWrt/blob/main/SDcard.png)
-
 5. A USB for expandiing storage and downloading packages 
-
-![Image](https://unsplash.com/photos/9Eid2zc_Veo)
-
 6. An ethernet extender or portable switch
 
-![Image](https://github.com/Brilliance0nly/DarthWrt/blob/main/ethernet.png)
 
 
 
