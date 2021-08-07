@@ -49,6 +49,7 @@ git clone https://github.com/Brilliance0nly/DarthWrt.git
 ```markdown
 ![Image](https://imgur.com/a/FM4zfJy)
 ```
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/FM4zfJy" data-context="false" ><a href="//imgur.com/a/FM4zfJy"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 7. An ethernet extender or portable switch
 
