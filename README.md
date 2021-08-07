@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## DarthWrt, an OpenWrt configuration for Raspberry Pi 4B
 
-You can use the [editor on GitHub](https://github.com/Brilliance0nly/Brilliance0nly.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+One of the best ways to set up a home lab or to learn networking is by configuring everything yourself. A good friend of mine once opened my mind to the possibility of success through exceeding normal expectations. He did this by starting at the hardest level of something and then working his way down. Not everything will work out better this way, but when it comes to tackling big projects his philosophy fits. Networking is a tough skill to master. It can be a wonderful job or your worst nightmare. I started with a traditional router like most of you, but  I started using open-sourced tools that helped me cover the knowledge gap. This file is a specially configured version of OpenWrt, built for a Raspberry Pi 4 motherboard. It ships with Luci and all the necessary components to get started. Just follow the instructions and you'll be on your way. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### What you need
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For this project to be effective, you will need the following items for the Raspberry Pi to be used as a networking device. 
+
+
 
 ```markdown
 Syntax highlighted code block
