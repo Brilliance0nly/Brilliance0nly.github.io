@@ -69,4 +69,4 @@ opkg upgrade
 - By default there is no password so you can just login , but the first administrator task is to set a root password
 - Configure your settings
 
-You can run it in a Virtual MAchine as well
+You can run it in a Virtual Machine as well
