@@ -57,24 +57,20 @@ opkg update
 ```
 
 ```markdown
-
 opkg upgrade
-
 ```
 - Find your IP address and type it into browser
 
 - By default there is no password so you can just login , but the first administrator task is to set a root password
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and 
 
+
+
+```markdown
 ![Image](https://github.com/Brilliance0nly/DarthWrt/blob/main/ethernet.png)
 ```
 
