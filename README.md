@@ -1,3 +1,5 @@
+# Project 1
+
 ## DarthWrt, an OpenWrt configuration for Raspberry Pi 4
 
 One of the best ways to set up a home lab or to learn networking is by configuring everything yourself. A good friend of mine once opened my mind to the possibility of success through exceeding normal expectations. He did this by starting at the hardest level of something and then working his way down. Not everything will work out better this way, but when it comes to tackling big projects his philosophy fits. Networking is a tough skill to master. It can be a wonderful job or your worst nightmare. I started with a traditional router like most of you, but  I eventually made the switch to using open-sourced tools that helped me cover the knowledge gap. This file is a specially configured version of OpenWrt, built for a Raspberry Pi 4 motherboard. It ships with Luci and all the necessary components to get started. Just follow the instructions and you'll be on your way. 
