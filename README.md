@@ -51,6 +51,7 @@ git clone https://github.com/Brilliance0nly/DarthWrt.git
 Install 
 
 - Plug your Raspberry Pi into your router or modem then turn it on
+- ssh into your device 
 
 ```markdown
 opkg update
@@ -59,8 +60,8 @@ opkg update
 ```markdown
 opkg upgrade
 ```
+- Reboot
 - Find your IP address and type it into browser
-
 - By default there is no password so you can just login , but the first administrator task is to set a root password
 
 
