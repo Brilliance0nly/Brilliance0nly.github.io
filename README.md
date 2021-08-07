@@ -7,7 +7,10 @@ One of the best ways to set up a home lab or to learn networking is by configuri
 
 For this project to be effective, you will need the following items for the Raspberry Pi to be used as a networking device. 
 
-
+1. A Raspberry Pi 4
+2. An SD card large to install the system on 
+3. A USB for expandiing storage and downling packages to the device 
+4. An ethernet Extesion cord or portable witch
 
 ```markdown
 Syntax highlighted code block
