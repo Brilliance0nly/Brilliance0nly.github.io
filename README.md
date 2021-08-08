@@ -70,3 +70,5 @@ opkg upgrade
 - Configure your settings
 
 You can run it in a Virtual Machine as well
+
+Copyright © 2020 , All Rights Reserved
